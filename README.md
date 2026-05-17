@@ -20,45 +20,33 @@
 ### `[ 01 — AUTOMATION & RPA ]`
 *Design, orchestrate and scale bots end-to-end in banking production.*
 
-![AA360](https://img.shields.io/badge/Automation_Anywhere_360-1a1a1a?style=for-the-badge&logoColor=white)
-![Orchestration](https://img.shields.io/badge/Bot_Orchestration-1a1a1a?style=for-the-badge&logoColor=white)
-![Process Design](https://img.shields.io/badge/Process_Design-1a1a1a?style=for-the-badge&logoColor=white)
-![Reconciliations](https://img.shields.io/badge/Financial_Reconciliations-1a1a1a?style=for-the-badge&logoColor=white)
+`AA360` · `Bot Orchestration` · `Process Design` · `Financial Reconciliations`
 
 ### `[ 02 — BACKEND & DATA ]`
 *Pipelines, integrations and databases that hold up.*
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=white)
-![openpyxl](https://img.shields.io/badge/openpyxl-1a1a1a?style=for-the-badge&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1a1a1a?style=for-the-badge&logoColor=white)
+![](https://skillicons.dev/icons?i=py&theme=dark)
+
+`Pandas` · `openpyxl` · `Oracle` · `SQL Server` · `REST APIs`
 
 ### `[ 03 — AI & CLOUD (GCP) ]`
 *Google services and generative models in production.*
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-1a1a1a?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Document AI](https://img.shields.io/badge/Document_AI-1a1a1a?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-1a1a1a?style=for-the-badge&logo=google&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Google_Apps_Script-1a1a1a?style=for-the-badge&logo=google&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-1a1a1a?style=for-the-badge&logoColor=white)
+![](https://skillicons.dev/icons?i=firebase,gcp&theme=dark)
+
+`Gemini API` · `Document AI` · `Firestore` · `Apps Script` · `OAuth 2.0`
 
 ### `[ 04 — FRONTEND & MOBILE ]`
 *Interfaces people actually want to use.*
 
-![Angular](https://img.shields.io/badge/Angular-1a1a1a?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML CSS](https://img.shields.io/badge/HTML_·_CSS-1a1a1a?style=for-the-badge&logo=html5&logoColor=white)
+![](https://skillicons.dev/icons?i=angular,flutter,html,css&theme=dark)
 
 ### `[ 05 — CRAFT ]`
 *How I work inside and at the front of a team.*
 
-![Tech Lead](https://img.shields.io/badge/Technical_Leadership-1a1a1a?style=for-the-badge&logoColor=white)
-![Project Mgmt](https://img.shields.io/badge/AI_·_RPA_Project_Mgmt-1a1a1a?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git_·_GitLab-1a1a1a?style=for-the-badge&logo=git&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-1a1a1a?style=for-the-badge&logoColor=white)
+![](https://skillicons.dev/icons?i=git&theme=dark)
+
+`Technical Leadership` · `AI · RPA Project Mgmt` · `Code Review`
 
 ---
 
@@ -110,9 +98,9 @@
 
 ### `[ 08 — CONTACT ]`
 
-[![Email](https://img.shields.io/badge/josealexcruz6@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josealexcruz6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-cruz-a73a35218/)
-[![GitHub](https://img.shields.io/badge/@Alex--Cruz6-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Cruz6)
+[![](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:josealexcruz6@gmail.com)
+[![](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/alexander-cruz-a73a35218/)
+[![](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Alex-Cruz6)
 
 *I'm looking for challenging projects that mix automation, data and product.*  
 *If this fits what you're looking for, drop me a line.*
